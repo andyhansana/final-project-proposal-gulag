@@ -20,7 +20,7 @@ import {
 } from '@react-google-maps/api'
 import { useRef, useState } from 'react'
 
-const center = { lat: 48.8584, lng: 2.2945 }
+const center = { lat: 41.8781, lng: -87.6298 }
 
 function App() {
   const { isLoaded } = useJsApiLoader({
